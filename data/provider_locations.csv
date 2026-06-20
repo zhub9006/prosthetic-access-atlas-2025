@@ -1,0 +1,15 @@
+facility_name,category,address,city,state,zip,latitude,longitude,status,region,notes
+WVU Medicine Rehabilitation,Prosthetic/Orthotic Clinic,1 Medical Center Drive,Morgantown,WV,26505,39.6295,-79.9559,verified,Rural West Virginia,Primary referral center for northern WV
+Charleston Area Medical Center,Rehabilitation Services,1 Medical Center Drive,Charleston,WV,25304,38.3498,-81.6190,verified,Rural West Virginia,Main facility for southern WV counties
+Cabell-Huntington Health Dept,Prosthetic Services,1200 6th Avenue,Huntington,WV,25701,38.4157,-82.4370,verified,Rural West Virginia,Serving western WV and tri-state area
+UK HealthCare - Prosthetics & Orthotics,Prosthetic/Orthotic Clinic,740 S Limestone,Lexington,KY,40536,37.9859,-84.4900,verified,Eastern Kentucky,Main referral for eastern KY patients
+Pikeville Medical Center,Rehabilitation Services,2500 N State St,Pikeville,KY,41501,37.4756,-82.5099,verified,Eastern Kentucky,Only regional option for far eastern KY
+University of Mississippi Medical Center,Prosthetic/Orthotic Clinic,2500 N State St,Jackson,MS,39216,32.3638,-90.2414,verified,Mississippi Delta,Primary in-state provider for Delta region
+Baptist Memorial Health Care,Rehabilitation Services,895 Madison Ave,Memphis,TN,37503,35.1495,-90.0490,verified,Mississippi Delta,Cross-state referral option
+Delta Health Center,Federally Qualified Health Center,PO Box 310,Mound Bayou,MS,38736,33.4547,-90.7030,verified,Mississippi Delta,Primary care only; no prosthetic services
+Hazard Regional Hospital,Limited Rehab Services,100 Archer Ln,Hazard,KY,41701,37.2350,-82.6440,unverified,Eastern Kentucky,Minimal prosthetic capabilities
+Rural Hospital Logan County,Prosthetic Services,Unknown,Logan County,WV,,,gap,Rural West Virginia,No confirmed prosthetist; critical gap
+Rural Hospital Mingo County,Prosthetic Services,Unknown,Mingo County,WV,,,gap,Rural West Virginia,No confirmed prosthetist; critical gap
+Rural Hospital Breathitt County,Prosthetic Services,Unknown,Breathitt County,KY,,,gap,Eastern Kentucky,No confirmed prosthetist; critical gap
+Rural Hospital Bolivar County,Prosthetic Services,Unknown,Bolivar County,MS,,,gap,Mississippi Delta,No confirmed prosthetist; critical gap
+Rural Hospital Coahoma County,Prosthetic Services,Unknown,Coahoma County,MS,,,gap,Mississippi Delta,No confirmed prosthetist; critical gap
